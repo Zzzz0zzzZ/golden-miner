@@ -1,0 +1,18 @@
+﻿  主.cpp
+C:\黄金矿工_链表\黄金矿工\主.cpp(632,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\黄金矿工_链表\黄金矿工\主.cpp(681,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\黄金矿工_链表\黄金矿工\主.cpp(682,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\黄金矿工_链表\黄金矿工\主.cpp(683,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\黄金矿工_链表\黄金矿工\主.cpp(684,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\黄金矿工_链表\黄金矿工\主.cpp(695,45): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\黄金矿工_链表\黄金矿工\主.cpp(696,45): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\黄金矿工_链表\黄金矿工\主.cpp(698,47): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\黄金矿工_链表\黄金矿工\主.cpp(699,47): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\黄金矿工_链表\黄金矿工\主.cpp(731,6): warning C4101: “i”: 未引用的局部变量
+C:\黄金矿工_链表\黄金矿工\主.cpp(823,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\黄金矿工_链表\黄金矿工\主.cpp(833,10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\黄金矿工_链表\黄金矿工\主.cpp(843,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\黄金矿工_链表\黄金矿工\主.cpp(845,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\黄金矿工_链表\黄金矿工\主.cpp(893,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\黄金矿工_链表\黄金矿工\主.cpp(904,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  黄金矿工.vcxproj -> C:\黄金矿工_链表\Debug\黄金矿工.exe
